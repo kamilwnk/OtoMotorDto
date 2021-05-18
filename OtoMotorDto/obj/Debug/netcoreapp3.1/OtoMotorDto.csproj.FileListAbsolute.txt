@@ -1,0 +1,9 @@
+D:\OtoMotor\Dto\OtoMotorDto\bin\Debug\netcoreapp3.1\OtoMotorDto.deps.json
+D:\OtoMotor\Dto\OtoMotorDto\bin\Debug\netcoreapp3.1\OtoMotorDto.dll
+D:\OtoMotor\Dto\OtoMotorDto\bin\Debug\netcoreapp3.1\OtoMotorDto.pdb
+D:\OtoMotor\Dto\OtoMotorDto\obj\Debug\netcoreapp3.1\OtoMotorDto.csprojAssemblyReference.cache
+D:\OtoMotor\Dto\OtoMotorDto\obj\Debug\netcoreapp3.1\OtoMotorDto.AssemblyInfoInputs.cache
+D:\OtoMotor\Dto\OtoMotorDto\obj\Debug\netcoreapp3.1\OtoMotorDto.AssemblyInfo.cs
+D:\OtoMotor\Dto\OtoMotorDto\obj\Debug\netcoreapp3.1\OtoMotorDto.csproj.CoreCompileInputs.cache
+D:\OtoMotor\Dto\OtoMotorDto\obj\Debug\netcoreapp3.1\OtoMotorDto.dll
+D:\OtoMotor\Dto\OtoMotorDto\obj\Debug\netcoreapp3.1\OtoMotorDto.pdb
